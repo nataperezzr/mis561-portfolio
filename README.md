@@ -10,4 +10,5 @@ The assignment Account Profitability and Service Tiers, creating a set of dashbo
 If I were doing this again, I would have tried to get more information on Inside Sales by creating more calculated fields to understand it's behavior better.
 
 MIS561, Power BI Introduction Certification, Completed September 23rd: https://public.tableau.com/views/PowerBITrainingCertifications_17902012406040/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Power BI provides automatic date hierarchies and fields categorized by year, month, etc. In flex 4, I manually created Order Year and Order Month columns from the Order Dates so that it was easier to organize data by specific sales periods. Next time, I would use Power BI because it allows me to drill down levels without needing to manually separate them. This would also allow me to explore other patterns in the data and reach more specific conclusions. Likewise, Power BI automatically cross-filters visuals when selecting a specific value. In flex 4, I had to manually select the list of visuals that needed to be updated to show certain views.
 
