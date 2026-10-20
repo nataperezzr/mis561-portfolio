@@ -2,11 +2,9 @@
 Portfolio of projects from my Data Visualization course. This will include the completion of assignments in Excel, Tableau, PowerBI through DataCamp, Adobe Express and various AI tools.
 
 The assignment Initial E-Commerce Profitability Analysis, developing a basic profitability set of dashboards and explaining my design. [This is the Dashboard](https://public.tableau.com/app/profile/natalia3739/viz/E-CommerceProfitabilityAnalysis_17893370876800/ExploratoryDashboard)
-
 If I were doing this again, I would have spent more time reading through the data to understand where inconsistencies were coming from.
 
 The assignment Account Profitability and Service Tiers, creating a set of dashboards and providing a recommendation for rebuilding the account service policy for FY2026. [This is the Dashboard](https://public.tableau.com/views/OrderAnalysis_17897558117740/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 If I were doing this again, I would have tried to get more information on Inside Sales by creating more calculated fields to understand it's behavior better.
 
 MIS561, Power BI Introduction Certification, Completed September 23rd: https://public.tableau.com/views/PowerBITrainingCertifications_17902012406040/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
@@ -22,4 +20,7 @@ Dear Sarah,
 Through these dashboards and certifications, I demonstrate I can turn business data into clear decisions at Southwest. In Flex 4, I found that Inside Sales accounts with $2,000–$3,999 in revenue had a combined net contribution of negative $40,357. I would rebuild that view in Power BI with conditional formatting that highlights the loss-making revenue group, so it is almost immediate for Marcus to identify the accounts affected by a higher eligibility threshold. Likewise, in Flex 6, I used the Quick Measure feature in Power BI to analyze the quarter-over-quarter TotalSales changes with data ranging from 2017 to 2020, visualized through a line and clustered column chart. That capability would help Southwest monitor whether sales are improving or declining without rebuilding a view for every report. 
 I would use Excel for smaller calculations that require close review and for creating calculated columns that can be referenced later. I would use Tableau for polished exploratory dashboards and presentations where visual storytelling is key. I would use Power BI for reports that need dynamic use of data, cross-filtering, and drill-down, something that can be constantly tailored to a specific view. 
 My remaining gap is that I have not yet maintained a Power BI report that other employees rely on over time. I would close it by maintaining a report built from public data such as Southwest flight scheduling, where I document refreshes and adjust it based on user feedback or any additional information the business might need. 
+
+The assignment Card Portfolio Review intends to answer which non-contactless cards should Bear Down Bank prioritize for early replacement based on Renee Castillo's year-end budget to replace non-contactless cards before they expire. [This is the Dashboard ] (https://public.tableau.com/views/CardPortfolioReview_17923873976990/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
+If I were doing this assignment again, I would shift my focus towards the clients that need the change the most, considering other factors such as usage, generation, etc.
 
