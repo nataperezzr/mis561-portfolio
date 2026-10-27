@@ -24,7 +24,7 @@ My remaining gap is that I have not yet maintained a Power BI report that other 
 The assignment Card Portfolio Review intends to answer which non-contactless cards should Bear Down Bank prioritize for early replacement based on Renee Castillo's year-end budget to replace non-contactless cards before they expire. [This is the Dashboard](https://public.tableau.com/views/CardPortfolioReview_17923873976990/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
 If I were doing this assignment again, I would shift my focus towards the clients that need the change the most, considering other factors such as usage, generation, etc.
 
-The assignment Card Growth Analysis (Wildcat Rewards Offer) wants to answer which group should receive the Wildcat Rewards pilot mailing, and how many of its customers qualify at the approved 670 FICO cutoff. [This is the dashboard](https://public.tableau.com/views/CardGrowthAnalysis_17927401550830/ExplanatoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+The assignment Card Growth Analysis (Wildcat Rewards Offer) wants to answer which group should receive the Wildcat Rewards pilot mailing, and how many of its customers qualify at the approved 670 FICO cutoff. [This is the dashboard](https://public.tableau.com/views/CardGrowthAnalysis_17927401550830/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 If I did it again, I would explore further how counts could change if the FICO cutoff changed, just to add more depth to the analysis.
 
 
