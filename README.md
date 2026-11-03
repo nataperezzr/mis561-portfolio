@@ -27,4 +27,12 @@ If I were doing this assignment again, I would shift my focus towards the client
 The assignment Card Growth Analysis (Wildcat Rewards Offer) wants to answer which group should receive the Wildcat Rewards pilot mailing, and how many of its customers qualify at the approved 670 FICO cutoff. [This is the dashboard](https://public.tableau.com/views/CardGrowthAnalysis_17927401550830/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 If I did it again, I would explore further how counts could change if the FICO cutoff changed, just to add more depth to the analysis.
 
+Nov 2, 2026 · Data Storytelling with Adobe Express
+Work sample for Marcus Reyes, VP of Sales at Southwest Office Solutions: raise the Inside Sales eligibility threshold to $4,000 and move the 264 accounts with $2,000–$3,999 in revenue to Self-Serve.
+
+[Work sample (PDF)](https://github.com/nataperezzr/mis561-portfolio/blob/6aa3132b31e428adefb321c8d777caa6bf58a73b/adobe/perezrojas-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:7413c116-ea16-5165-9d75-d9bbb69eaf40?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Design choice: I used a two-bar chart because Marcus has to decide where to draw the Inside Sales cutoff, and it shows that accounts under $4,000 lose $40,357 while accounts at $4,000 and above earn $23,535. I considered a pie chart, but it can't show gains and losses against a line zero. I removed the y-axis from the Tableau chart because the bars already show the dollar labels, which let me widen the chart so the loss and the gain are more readable at a glance.
+
+Training completed: November 2nd, 2026
 
