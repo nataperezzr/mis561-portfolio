@@ -34,5 +34,5 @@ Work sample for Marcus Reyes, VP of Sales at Southwest Office Solutions: raise t
 
 Design choice: I used a two-bar chart because Marcus has to decide where to draw the Inside Sales cutoff, and it shows that accounts under $4,000 lose $40,357 while accounts at $4,000 and above earn $23,535. I considered a pie chart, but it can't show gains and losses against a line zero. I removed the y-axis from the Tableau chart because the bars already show the dollar labels, which let me widen the chart so the loss and the gain are more readable at a glance.
 
-Training completed: November 2nd, 2026
+Training completed: November 2nd, 2026. [This is my badge](https://www.credly.com/badges/12159091-adde-43c1-b364-0f48b6f7b4a1/public_url)
 
