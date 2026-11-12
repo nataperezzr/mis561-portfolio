@@ -41,7 +41,7 @@ Nov 11, 2026 · Product Pitch with Generative AI in Adobe Express
 
 Pitch to Marcus Reyes, VP of Sales at Southwest Office Solutions: approve a six-week first phase to test a $4,000 Inside Sales threshold before moving 264 low revenue accounts to Self-Serve.
 
-[Pitch deck (PDF)]( https://github.com/nataperezzr/mis561-portfolio/blob/main/adobe/perezrojas-product-pitch.pdf) · [Adobe Express]( https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:9b402fd9-55a9-53f2-a99b-0bec9df63afd?sdid=C4SZ2FYJ&pageId=3bb5073d-2409-435d-b53f-94b958090f6d&category=search)
+[Pitch deck (PDF)]( https://github.com/nataperezzr/mis561-portfolio/blob/main/adobe/perezrojas-product-pitch.pdf) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:9b402fd9-55a9-53f2-a99b-0bec9df63afd?sdid=C4SZ2FYJ&pageId=b9c70f31-146b-4df5-93a4-883581be5b4e&category=search&promoid=FHRLZ472&mv=other)
 
 Toughest objection: "Moving 264 accounts to Self-Serve could cost Southwest customers." Slide 6 answers it: phase one changes no account tiers, and account representatives and a sample of affected customers are consulted in week five before Southwest makes any decision. This reduces the risk of customer loss into something tested before Southwest decides.
 AI use: Claude (Anthropic, Claude Sonnet 5.5) feedback on slide wording and small grammar or positioning errors, November 12, 2026. Adobe Firefly: None. 
