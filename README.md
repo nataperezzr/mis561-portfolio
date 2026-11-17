@@ -46,6 +46,6 @@ Pitch to Marcus Reyes, VP of Sales at Southwest Office Solutions: approve a six-
 Toughest objection: "Moving 264 accounts to Self-Serve could cost Southwest customers." Slide 6 answers it: phase one changes no account tiers, and account representatives and a sample of affected customers are consulted in week five before Southwest makes any decision. This reduces the risk of customer loss into something tested before Southwest decides.
 AI use: Claude (Anthropic, Claude Sonnet 5.5) feedback on slide wording and small grammar or positioning errors, November 12, 2026. Adobe Firefly: None. 
 
-Training completed: November 11th, 2026
+Training completed: November 11th, 2026. [This is my badge](https://www.credly.com/badges/394b696e-73ba-4c78-8a62-9e87cf69f89d/public_url)
 
 
