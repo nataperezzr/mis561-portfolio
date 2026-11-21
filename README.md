@@ -49,3 +49,17 @@ AI use: Claude (Anthropic, Claude Sonnet 5.5) feedback on slide wording and smal
 Training completed: November 11th, 2026. [This is my badge](https://www.credly.com/badges/394b696e-73ba-4c78-8a62-9e87cf69f89d/public_url)
 
 
+
+November 21, 2026 · Brand Standard Application in Tableau
+
+Rebranded an IMDb exploratory dashboard and developed an explanatory dashboard for IMDb Originals to answer:Do
+non-English-language movies earn ratings and engagement comparable to English-language movies, and which languages are growing? 
+
+[Tableau workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17951137929270/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+One thing I'd change: I would explore different time periods to better distinguish long-term trends, considering that I only did post pandemic years. 
+
+AI use: ChatGPT assisted with troubleshooting Tableau formatting, checking grammar, and comparing final deliverable against rubric. 
+
+
+
