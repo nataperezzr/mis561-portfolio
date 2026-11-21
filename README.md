@@ -55,7 +55,7 @@ November 21, 2026 · Brand Standard Application in Tableau
 Rebranded an IMDb exploratory dashboard and developed an explanatory dashboard for IMDb Originals to answer:Do
 non-English-language movies earn ratings and engagement comparable to English-language movies, and which languages are growing? 
 
-[Tableau workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17951137929270/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau workbook](https://public.tableau.com/app/profile/natalia3739/viz/DataPlusMoviesAnalysis_17952477705010/DataMoviesIMDBDashboard)
 
 One thing I'd change: I would explore different time periods to better distinguish long-term trends, considering that I only did post pandemic years. 
 
